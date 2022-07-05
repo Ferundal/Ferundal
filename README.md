@@ -1,9 +1,9 @@
 
 
 <details>
-<summary>Heading1</summary>
+<summary>ecole 42</summary>
 
-some text
+42 is a private, nonprofit and tuition-free computer science school created and funded by French billionaire Xavier Niel with several partners including Nicolas Sadirac, Kwame Yamgnane and Florian Bucher. The school was first opened in Paris in 2013.
 + <details>
     <summary>Heading1.1</summary>
 
