@@ -1,16 +1,14 @@
 <details>
-<summary>Well</summary>
+<summary>Heading1</summary>
 
-<details>
-<summary>Try this</summary>
+some text
++ <details>
+    <summary>Heading1.1</summary>
 
- <details>
- <summary>The other one</summary>
-
-   <details>
-   <summary>Ok, try this</summary>
-   You got me 😂
+    some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
    </details>
- </details>
-</details>
 </details>
