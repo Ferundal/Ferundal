@@ -16,4 +16,4 @@ some text
 </details>
 
 
-[include](File:load_another_md_file_here.md)
+[link text](https://github.com/Ferundal/libft/blob/master/README.md)
