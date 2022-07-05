@@ -1,9 +1,16 @@
 <details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
+<summary>Well</summary>
 
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
+<details>
+<summary>Try this</summary>
+
+ <details>
+ <summary>The other one</summary>
+
+   <details>
+   <summary>Ok, try this</summary>
+   You got me 😂
+   </details>
+ </details>
+</details>
 </details>
