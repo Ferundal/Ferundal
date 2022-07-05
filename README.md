@@ -4,7 +4,7 @@
 <summary><img src="images/42_Logo.png" alt="Ecole 42" width="15" height="15"> Ecole 42</summary>
     
 
-    Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)">Ecole 42</a> programming school. From latest to oldest.
+Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)">Ecole 42</a> programming school. From latest to oldest.
     
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme">ft_printf</a></summary>
