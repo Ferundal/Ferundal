@@ -3,8 +3,6 @@ Hello there!
 			    <ul>
 			        <li><a href="#">Home</a></li>
 			        <li><a href="#">WordPress</a>
-			
-			            <!-- первый уровень выпадающего списка -->
 			            <ul>
 			                <li><a href="#">Themes</a></li>
 			                <li><a href="#">Plugins</a></li>
