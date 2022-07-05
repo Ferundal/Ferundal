@@ -1,14 +1,14 @@
 
 
 <details>
-<summary>Ecole 42</summary>
+<summary><img src="images/42_Logo.png" alt="Ecole 42" width="40" height="40">Ecole 42</summary>
     
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)">Ecole 42</a> programming school.
     
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme">ft_printf</a></summary>
 
-    Recode of printf. First meet with variadic functions.
+    Recode of C standard library printf. First meet with variadic functions.
     
     + <details>
         <summary>Heading1.1.1</summary>
