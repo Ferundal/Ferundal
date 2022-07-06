@@ -1,7 +1,7 @@
 <details>
 <summary><img src="images/Unity_logo.png" alt="Unity" width="11" height="11"> Unity</summary>
-    
-Everything i done on Unity, from latest to oldest.
+
+Unity become my first step in the game development. You can watch my path from latest works to oldest.
     
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme">ft_printf</a></summary>
