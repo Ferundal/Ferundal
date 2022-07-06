@@ -1,16 +1,16 @@
 <details>
-<summary><img src="images/Unity_logo.png" alt="Unity" width="11" height="11"> Unity</summary>
+<summary><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11"> Unity</summary>
 
-Unity become my first step in the game development. You can watch my path from latest works to oldest.
+Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
 + <details>
-    <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme">ft_printf</a></summary>
+    <summary><img src="images/clipboard.png" alt="Test task" width="11" height="11"> Test tasks</summary>
 
-    Recode of C standard library printf. First meet with variadic functions.
+    During job search i made few projects in limeted time to prove my qualification.
     
     + <details>
-        <summary>Heading1.1.1</summary>
-        even more text
+        <summary><a href="https://github.com/Ferundal/Libft">Alarm Clock</a></summary>
+        
       </details>
    </details>
 + <details>
