@@ -10,6 +10,12 @@ Unity become my first step in the game development. Inside sections projects sor
     
     + <details>
         <summary><a href="https://github.com/Ferundal/Libft">Alarm Clock</a></summary>
+        Simple Android application. Get time from internet, show it to user.
+        User can set up alarm time by entering numerals in the fields or by moving clock hands.
+        Work in both portrait and landscape mode.
+        <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_210305_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="11" height="11">
+        <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212604_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="11" height="11">
+        <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212622_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="11" height="11">
         
       </details>
    </details>
