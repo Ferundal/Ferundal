@@ -39,7 +39,7 @@ Unity become my first step in the game development. Inside sections projects sor
     
         Game purpose is to hold as long as possible on the board. Pick up power ups to trow enemy balls away from the board, some of them can be used by pressing "space".
     
-        [![Everything Is AWESOME](images/Unity/Junior_Programmer-Pathway/Roll_Ball/Youtube_prev.png)](https://www.youtube.com/watch?v=lRvkXdY3gQo "Roll Ball")
+        <a href="https://www.youtube.com/watch?v=lRvkXdY3gQo"><img src="images/Unity/Junior_Programmer-Pathway/Roll_Ball/Youtube_prev.png" alt="Roll Ball" width="500" height="300"></a>
       </details>
    </details>
 </details>
