@@ -36,7 +36,9 @@ Unity become my first step in the game development. Inside sections projects sor
     During my path to <a href="https://www.credly.com/badges/4378bc78-5530-4bd4-9bcd-ff089fc1cdb3/public_url">Unity Junior Programmer</a> badge in <a href="https://learn.unity.com/pathway/junior-programmer">Junior Programmer Pathway</a>, i made a few projects showing my new skills.
     + <details>
         <summary><a href="https://github.com/Ferundal/Libft">Roll ball</a></summary>
+    
         Game purpose is to hold as long as possible on the board. Pick up power ups to trow enemy balls away from the board, some of them can be used by pressing "space".
+    
         [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lRvkXdY3gQo/0.jpg)](https://www.youtube.com/watch?v=lRvkXdY3gQo)
       </details>
    </details>
