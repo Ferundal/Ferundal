@@ -30,7 +30,7 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
 + <details>
-    <summary><img src="images/clipboard.png" alt="Test task" width="11" height="11" /> Test tasks</summary>
+    <summary><a href="#"><img src="images/clipboard.png" alt="Test task" width="11" height="11" /></a> Test tasks</summary>
 
     During job search i made few projects in limeted time to prove my qualification.
     
@@ -57,7 +57,7 @@ Unity become my first step in the game development. Inside sections projects sor
       </details>
    </details>
 + <details>
-    <summary><img src="images/Unity/00-Junior_Programmer-Pathway.png" alt="Test task" width="11" height="11" /> Junior Programmer Pathway</summary>
+    <summary><a href="#"><img src="images/Unity/00-Junior_Programmer-Pathway.png" alt="Test task" width="11" height="11" /></a> Junior Programmer Pathway</summary>
         
     During my path to <a href="https://www.credly.com/badges/4378bc78-5530-4bd4-9bcd-ff089fc1cdb3/public_url" target="blank">Unity Junior Programmer</a> badge in <a href="https://learn.unity.com/pathway/junior-programmer">Junior Programmer Pathway</a>, i made a few projects showing my new skills.
     + <details>
@@ -73,7 +73,7 @@ Unity become my first step in the game development. Inside sections projects sor
 </details>
 
 <details>
-<summary><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"> Ecole 42</summary>
+    <summary><a href="#"><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary>
     
 
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
