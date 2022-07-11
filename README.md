@@ -83,11 +83,7 @@ Following projects was made during my education in russian campus of <a href="ht
 
     First meeting with low-level programming. Recode of standart C library funtions in Assembler.
 
-    Gives me basic knowledge about function calling convention.
-    
-    <a href="https://www.youtube.com/watch?v=c4ySvMEBvGM" target="blank"><img src="http://img.youtube.com/vi/c4ySvMEBvGM/0.jpg" alt="Roll Ball" width="500" height="300"></a>
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+    Gives me basic knowledge about function calling convention and stack alignment.
    </details>
 + <details>
     <summary><a href="https://github.com/Ferundal/cube3d/tree/master#readme" target="blank">cube3d</a></summary>
