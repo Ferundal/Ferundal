@@ -25,12 +25,12 @@
 <h3 align="left">My projects:</h3>
 
 <details>
-<summary><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11"> Unity</summary>
+<summary><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /> Unity</summary>
 
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
 + <details>
-    <summary><img src="images/clipboard.png" alt="Test task" width="11" height="11"> Test tasks</summary>
+    <summary><img src="images/clipboard.png" alt="Test task" width="11" height="11" /> Test tasks</summary>
 
     During job search i made few projects in limeted time to prove my qualification.
     
@@ -57,7 +57,7 @@ Unity become my first step in the game development. Inside sections projects sor
       </details>
    </details>
 + <details>
-    <summary><img src="images/Unity/00-Junior_Programmer-Pathway.png" alt="Test task" width="11" height="11"> Junior Programmer Pathway</summary>
+    <summary><img src="images/Unity/00-Junior_Programmer-Pathway.png" alt="Test task" width="11" height="11" /> Junior Programmer Pathway</summary>
         
     During my path to <a href="https://www.credly.com/badges/4378bc78-5530-4bd4-9bcd-ff089fc1cdb3/public_url" target="blank">Unity Junior Programmer</a> badge in <a href="https://learn.unity.com/pathway/junior-programmer">Junior Programmer Pathway</a>, i made a few projects showing my new skills.
     + <details>
