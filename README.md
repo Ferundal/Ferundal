@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Michail Kustikov. You also can know me as Ferundal.</h1>
+<h3 align="center">I played games, now i'm making them.</h3>
+
 <a href="https://youtu.be/qbWqXKN3m3c"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding"></a>
 
 <details>
