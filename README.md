@@ -9,16 +9,16 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="center" src="images/linked-in-alt.svg" alt="Ferundal" height="30" width="40" /><a href="www.linkedin.com/in/michail-kustikov" target="blank"> Michail Kustikov</a>
+<a href="www.linkedin.com/in/michail-kustikov" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="Ferundal" height="30" width="40" /></a> <a href="www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
 </p>
 <p align="left">
-<img align="center" src="images/Contacts/Gmail_Logo_512px.png" alt="Ferundal" height="30" width="40" /> ferundal@gmail.com
+<a href="ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo_512px.png" alt="Ferundal" height="30" width="40" /></a> <a href="ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
 </p>
 <p align="left">
-<img align="center" src="images/Contacts/telegram-logo.png" alt="Ferundal" height="30" width="30" /> <a href="https://t.me/ferundal" target="blank">@ferundal</a>
+<a href="https://t.me/ferundal" target="blank"><img align="center" src="images/Contacts/telegram-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://t.me/ferundal" target="blank">@ferundal</a>
 </p>
 <p align="left">
-<img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /> Ferundal#7929
+<a href="discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>
 </p>
 
 
