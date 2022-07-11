@@ -21,6 +21,7 @@
 <a href="discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>
 </p>
 
+---
 
 <details>
 <summary><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11"> Unity</summary>
