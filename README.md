@@ -92,11 +92,7 @@ Following projects was made during my education in russian campus of <a href="ht
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_server" target="blank">ft_server</a></summary>
 
-    Simple devops project. Dockerfile build Docker container with Nginx + MariaDB + Wordpress + phpMyAdmin and start it.
-    
-    <a href="https://www.youtube.com/watch?v=c4ySvMEBvGM" target="blank"><img src="http://img.youtube.com/vi/c4ySvMEBvGM/0.jpg" alt="Roll Ball" width="500" height="300"></a>
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+    Devops project. Dockerfile build Docker container with Nginx + MariaDB + Wordpress + phpMyAdmin and start it.
    </details>    
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme" target="blank">ft_printf</a></summary>
