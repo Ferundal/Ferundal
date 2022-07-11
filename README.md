@@ -79,6 +79,27 @@ Unity become my first step in the game development. Inside sections projects sor
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
 
 + <details>
+    <summary><a href="https://github.com/Ferundal/ft_irc" target="blank">ft_irc</a></summary>
+
+    Server for IRC chat protocol. Proceed user registration, private and group chat messages.
+
+    What is new? Sockets. Also includes bot, who help save moderator privileges in chosen chat.
+   </details>
++ <details>
+    <summary><a href="https://github.com/Ferundal/minishell" target="blank">minishell</a></summary>
+
+    Bash written by me. Multiprocessing, pipes, environment variables.
+    
+    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+   </details>
++ <details>
+    <summary><a href="https://github.com/Ferundal/philosopher" target="blank">philosopher</a></summary>
+
+    The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic.
+    
+    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+   </details>
++ <details>
     <summary><a href="https://github.com/Ferundal/libasm" target="blank">libasm</a></summary>
 
     First meeting with low-level programming. Recode of standart C library funtions in Assembler.
