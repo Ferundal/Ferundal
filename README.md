@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
 <h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
 
-<a href="https://youtu.be/qbWqXKN3m3c" target="blank"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding" height="243" width="432"></a>
+<a href="https://youtu.be/qbWqXKN3m3c" target="_blank"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding" height="243" width="432"></a>
 
 - 🔭 I’m currently working on **Personal Pet Project**
 
