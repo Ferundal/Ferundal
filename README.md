@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
 <h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
 
-<a href="https://youtu.be/qbWqXKN3m3c" target="_blank"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding" height="243" width="432"></a>
+<a href="https://youtu.be/qbWqXKN3m3c"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding" height="243" width="432"></a>
 
 - 🔭 I’m currently working on **Personal Pet Project**
 
@@ -9,16 +9,16 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/michail-kustikov" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="Ferundal" height="30" width="40" /></a> <a href="www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
+<a href="https://www.linkedin.com/in/michail-kustikov"><img align="center" src="images/linked-in-alt.svg" alt="Ferundal" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
 </p>
 <p align="left">
-<a href="ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo_512px.png" alt="Ferundal" height="30" width="40" /></a> <a href="ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
+<a href="https://ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo_512px.png" alt="Ferundal" height="30" width="40" /></a> <a href="https://ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
 </p>
 <p align="left">
 <a href="https://t.me/ferundal" target="blank"><img align="center" src="images/Contacts/telegram-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://t.me/ferundal" target="blank">@ferundal</a>
 </p>
 <p align="left">
-<a href="discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>
+<a href="https://discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>
 </p>
 
 ---
