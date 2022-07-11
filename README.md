@@ -35,7 +35,7 @@ Unity become my first step in the game development. Inside sections projects sor
     During job search i made few projects in limeted time to prove my qualification.
     
     + <details>
-        <summary><a href="https://github.com/Ferundal/Libft" target="blank">Alarm Clock</a></summary>
+        <summary><a href="https://github.com/Ferundal/Alarm_Clock" target="blank">Alarm Clock</a></summary>
         Simple Android application. Get time from internet, show it to user.
         User can set up alarm time by entering numerals in the fields or by moving clock hands.
         Work in both portrait and landscape mode.
