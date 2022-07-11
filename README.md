@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michail Kustikov.</h1>
-<h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them.</h3>
+<h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
+<h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
 
 <a href="https://youtu.be/qbWqXKN3m3c" target="blank"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding"></a>
 
