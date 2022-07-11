@@ -25,7 +25,7 @@
 <h3 align="left">My projects:</h3>
 
 <details>
-<summary><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /> Unity</summary>
+<summary><a href="https://github.com/Ferundal/Ferundal"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
 
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
