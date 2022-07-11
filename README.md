@@ -79,6 +79,17 @@ Unity become my first step in the game development. Inside sections projects sor
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
     
 + <details>
+    <summary><a href="https://github.com/Ferundal/cube3d/tree/master#readme" target="blank">cube3d</a></summary>
+
+    Simple raycast game engine written on C.
+
+    Project uses external School 21 output library - minilibx.
+    
+    <a href="https://www.youtube.com/watch?v=c4ySvMEBvGM" target="blank"><img src="http://img.youtube.com/vi/c4ySvMEBvGM/0.jpg" alt="Roll Ball" width="500" height="300"></a>
+    
+    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+   </details>    
++ <details>
     <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme" target="blank">ft_printf</a></summary>
 
     Recode of C standard library printf. First meet with variadic functions.
