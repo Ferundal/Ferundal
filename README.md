@@ -137,4 +137,3 @@ Following projects was made during my education in russian campus of <a href="ht
     Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
    </details>
 </details>
-<center><a href="https://youtu.be/qbWqXKN3m3c"><img src="images/hacker-meme.gif" img align="middle" alt="Ferundal is coding" height="243" width="432"></a></center>
