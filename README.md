@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
 <h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
 
-<a href="https://youtu.be/qbWqXKN3m3c"><img src="images/hacker-meme.gif" img align="right" alt="Ferundal is coding" height="243" width="432"></a>
+<img src="https://badge42.vercel.app/api/v2/cl610h7il008209ii106oamsp/stats?cursusId=21&coalitionId=99" img align="right" alt="cjettie's 42 stats">
 
 - 🔭 I’m currently working on **Personal Pet Project**
 
@@ -137,3 +137,4 @@ Following projects was made during my education in russian campus of <a href="ht
     Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
    </details>
 </details>
+<center><a href="https://youtu.be/qbWqXKN3m3c"><img src="images/hacker-meme.gif" img align="middle" alt="Ferundal is coding" height="243" width="432"></a></center>
