@@ -74,7 +74,7 @@ Unity become my first step in the game development. Inside sections projects sor
     
         Mouse click on the trash in the right time to throw it in correct bin.
     
-        <img src="images/Unity/Junior_Programmer-Pathway/Roll_Ball/Youtube_prev.png" alt="Roll Ball" width="500" height="300"></a>
+        <img src="images/Unity/Junior_Programmer-Pathway/Garbage_Bin_Sorter/GarbageBinSorter.png" alt="Roll Ball" width="500" height="300"></a>
     
         <a href="https://play.unity.com/mg/other/finalbuild-14" target="blank">WebGL Build for browser</a>
       </details>
