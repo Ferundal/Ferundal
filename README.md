@@ -40,7 +40,8 @@ Unity become my first step in the game development. Inside sections projects sor
         <summary><a href="https://github.com/Ferundal/in-the-shadows" target="blank">in-the-shadows</a></summary>
         Complete game with little bit of algo and a lot of creativity.
 
-        Here is the goal of the game: the player must use an object in the foreground to create a shadow that looks like a familiar shape in the background. 
+        Here is the goal of the game: the player must use an object in the foreground to create a shadow that looks like a familiar shape in the background.
+    
         <a href="https://www.youtube.com/watch?v=W_plUBQT8ss" target="blank"><img src="https://img.youtube.com/vi/W_plUBQT8ss/0.jpg" alt="Roll Ball" width="500" height="300"></a>
       </details>
    </details>
