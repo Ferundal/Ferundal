@@ -24,11 +24,63 @@
 ---
 <h3 align="left">My projects:</h3>
 
+
+
 <details>
 <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
 
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
++ <details>
+    <summary><a href="#"><img src="images/clipboard.png" alt="Test task" width="11" height="11" /></a> Test tasks</summary>
+
+    During job search i made few projects in limeted time to prove my qualification.
+    
+    + <details>
+        <summary><a href="https://github.com/Ferundal/Alarm_Clock" target="blank">Alarm Clock</a></summary>
+        Simple Android application. Get time from internet, show it to user.
+        User can set up alarm time by entering numerals in the fields or by moving clock hands.
+        Work in both portrait and landscape mode.
+        <table>
+            <tr>
+                <td rowspan = "2">
+                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_210305_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="200" height="450">
+                </td>
+                <td>
+                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212604_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="450" height="200">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212622_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="450" height="200">
+                </td>
+            </tr>
+    </table>
+      </details>
+   </details>
++ <details>
+    <summary><a href="#"><img src="images/Unity/00-Junior_Programmer-Pathway.png" alt="Test task" width="11" height="11" /></a> Junior Programmer Pathway</summary>
+        
+    During my path to <a href="https://www.credly.com/badges/4378bc78-5530-4bd4-9bcd-ff089fc1cdb3/public_url" target="blank">Unity Junior Programmer</a> badge in <a href="https://learn.unity.com/pathway/junior-programmer">Junior Programmer Pathway</a>, i made a few projects showing my new skills.
+    + <details>
+        <summary><a href="https://github.com/Ferundal/UL_JP_Prototype_4/tree/main" target="blank">Roll ball</a></summary>
+    
+        Game purpose is to hold as long as possible on the board. Pick up power ups to trow enemy balls away from the board, some of them can be used by pressing "space".
+    
+        <a href="https://www.youtube.com/watch?v=lRvkXdY3gQo" target="blank"><img src="images/Unity/Junior_Programmer-Pathway/Roll_Ball/Youtube_prev.png" alt="Roll Ball" width="500" height="300"></a>
+    
+        <a href="https://play.unity.com/mg/other/webgl-builds-220216" target="blank">WebGL Build for browser</a>
+      </details>
+    + <details>
+        <summary><a href="https://github.com/Ferundal/UL_JP_CountingPrototype" target="blank">Garbage Bin Sorter</a></summary>
+    
+        Mouse click on the trash in the right time to throw it in correct bin.
+    
+        <img src="images/Unity/Junior_Programmer-Pathway/Garbage_Bin_Sorter/GarbageBinSorter.png" alt="Roll Ball" width="500" height="300"></a>
+    
+        <a href="https://play.unity.com/mg/other/finalbuild-14" target="blank">WebGL Build for browser</a>
+      </details>
+   </details>    
 + <details>
     <summary><a href="#"><img src="images/clipboard.png" alt="Test task" width="11" height="11" /></a> Test tasks</summary>
 
