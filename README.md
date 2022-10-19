@@ -42,7 +42,7 @@ Unity become my first step in the game development. Inside sections projects sor
 
         Here is the goal of the game: the player must use an object in the foreground to create a shadow that looks like a familiar shape in the background.
     
-        <a href="https://www.youtube.com/watch?v=W_plUBQT8ss" target="blank"><img src="https://img.youtube.com/vi/W_plUBQT8ss/0.jpg" alt="Roll Ball" width="500" height="300"></a>
+        <a href="https://www.youtube.com/watch?v=rezkc5tS3R0" target="blank"><img src="https://img.youtube.com/vi/rezkc5tS3R0/0.jpg" alt="Roll Ball" width="500" height="300"></a>
       </details>
    </details>
 + <details>
@@ -103,6 +103,18 @@ Unity become my first step in the game development. Inside sections projects sor
 
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
 
++ <details>
+    <summary><a href="https://github.com/Ferundal/Piscine_Java" target="blank">Piscine_Java</a></summary>
+
+    Intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets.
+   </details>
++ <details>
+    <summary><a href="https://github.com/Ferundal/Inception" target="blank">Inception</a></summary>
+
+    System Administration related exercise. 
+
+    Few independent Docker containers (NGINX, WordPress, MariaDB) connected to docker-network and deployed with the docker-compose.
+   </details>
 + <details>
     <summary><a href="https://github.com/Ferundal/ft_irc" target="blank">ft_irc</a></summary>
 
