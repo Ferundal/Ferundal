@@ -9,10 +9,10 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michail-kustikov"><img align="center" src="images/linked-in-alt.svg" alt="Ferundal" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
+<a href="https://www.linkedin.com/in/michail-kustikov"><img align="center" src="images/Contacts/linked-in-alt.png" alt="Ferundal" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
 </p>
 <p align="left">
-<a href="https://ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo_512px.png" alt="Ferundal" height="30" width="40" /></a> <a href="https://ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
+<a href="https://ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Ferundal" height="30" width="40" /></a> <a href="https://ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
 </p>
 <p align="left">
 <a href="https://t.me/ferundal" target="blank"><img align="center" src="images/Contacts/telegram-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://t.me/ferundal" target="blank">@ferundal</a>
