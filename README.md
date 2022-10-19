@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
 <h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
 
-<img src="https://badge42.vercel.app/api/v2/cl610h7il008209ii106oamsp/stats?cursusId=21&coalitionId=99" img align="right" alt="cjettie's 42 stats">
-
 - 🔭 I’m currently working on **Personal Pet Project**
 
 - 🌱 I’m currently learning **C#, C++, Unity Engine**
@@ -35,7 +33,12 @@ Unity become my first step in the game development. Inside sections projects sor
     <summary><a href="#"><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42 Unity</summary>
 
     Projects on Unity from <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school.
-    
+    + <details>
+        <summary><a href="https://github.com/Ferundal/Piscine-Unity" target="blank">Piscine Unity</a></summary>
+        Intensive course covering different Unity Engine capabilities. As result - several different Unity games.
+        
+        
+      </details>
     + <details>
         <summary><a href="https://github.com/Ferundal/in-the-shadows" target="blank">in-the-shadows</a></summary>
         Complete game with little bit of algo and a lot of creativity.
@@ -102,6 +105,8 @@ Unity become my first step in the game development. Inside sections projects sor
     
 
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
+
+<img src="https://badge42.vercel.app/api/v2/cl610h7il008209ii106oamsp/stats?cursusId=21&coalitionId=99" img align="center" alt="cjettie's 42 stats">
 
 + <details>
     <summary><a href="https://github.com/Ferundal/Piscine_Java" target="blank">Piscine_Java</a></summary>
