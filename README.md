@@ -32,30 +32,16 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
     
 + <details>
-    <summary><a href="#"><img src="images/clipboard.png" alt="Test task" width="11" height="11" /></a> Test tasks</summary>
+    <summary><a href="#"><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42 Unity</summary>
 
     During job search i made few projects in limeted time to prove my qualification.
     
     + <details>
-        <summary><a href="https://github.com/Ferundal/Alarm_Clock" target="blank">Alarm Clock</a></summary>
-        Simple Android application. Get time from internet, show it to user.
-        User can set up alarm time by entering numerals in the fields or by moving clock hands.
-        Work in both portrait and landscape mode.
-        <table>
-            <tr>
-                <td rowspan = "2">
-                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_210305_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="200" height="450">
-                </td>
-                <td>
-                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212604_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="450" height="200">
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="images/Unity/test_tasks/alarm_clock/Screenshot_20220706_212622_com.DefaultCompany.ToRScientificEnvironments.jpg" alt="Test task" width="450" height="200">
-                </td>
-            </tr>
-    </table>
+        <summary><a href="https://github.com/Ferundal/in-the-shadows" target="blank">in-the-shadows</a></summary>
+        Complete game with little bit of algo and a lot of creativity.
+
+        Here is the goal of the game: the player must use an object in the foreground to create a shadow that looks like a familiar shape in the background. 
+        <a href="https://www.youtube.com/watch?v=W_plUBQT8ss" target="blank"><img src="https://img.youtube.com/vi/W_plUBQT8ss/0.jpg" alt="Roll Ball" width="500" height="300"></a>
       </details>
    </details>
 + <details>
