@@ -28,6 +28,24 @@
 <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
 
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
+
++ <details>
+    <summary><a href="https://github.com/Ferundal/Robot_Walks"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
+
+    Mobile game prototype, work in progress
+
+    <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank"><img src="https://img.youtube.com/vi/AVE7itGTmLs/0.jpg" alt="Roll Ball" width="500" height="300"></a>
+    
+   </details>
+
++ <details>
+    <summary><a href="https://github.com/Ferundal/Kid-Mansion-Robots"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
+
+    Third person controlled quest. The child found themselves locked inside a robot-controlled mansion and is searching for a way out.
+
+    <a href="https://www.youtube.com/watch?v=GJfLMSTq2Fk" target="blank"><img src="https://img.youtube.com/vi/GJfLMSTq2Fk/0.jpg" alt="Roll Ball" width="500" height="300"></a>
+    
+   </details>
     
 + <details>
     <summary><a href="#"><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42 Unity</summary>
