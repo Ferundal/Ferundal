@@ -30,9 +30,9 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
 
 + <details>
-    <summary><a href="https://github.com/Ferundal/Robot_Walks"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
+    <summary><a href="https://github.com/Ferundal/Robot_Walks"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
 
-    Mobile game prototype, work in progress
+    Mobile shooter game prototype, work in progress
 
     <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank"><img src="https://img.youtube.com/vi/AVE7itGTmLs/0.jpg" alt="Roll Ball" width="500" height="300"></a>
     
