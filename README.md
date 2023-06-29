@@ -34,25 +34,30 @@ Unity become my first step in the game development. Inside sections projects sor
 
     Ghost's Wokshop is a short interactive story about family, art and passing.
 
-    <a href="https://johnnyzaev.itch.io/ghostworkshop" target="blank"><img src="https://img.itch.zone/aW1nLzEyNDc5NTAzLnBuZw==/original/mJ8Nsh.png" alt="Ghost's Wokshop WebGL" width="500" height="300"></a>
+    <img src="https://img.itch.zone/aW1nLzEyNDc5NTAzLnBuZw==/original/mJ8Nsh.png" alt="Ghost's Wokshop" width="500" height="300">
+    <a href="https://github.com/JohnnyZaev/JamGDTV2023">GitHub Repository</a>
+    <a href="https://johnnyzaev.itch.io/ghostworkshop" target="blank">WebGL Build</a>
     
    </details>
 
 + <details>
-    <summary><a href="https://github.com/Ferundal/Robot_Walks"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
+    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
 
     Mobile shooter game prototype, work in progress
 
-    <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank"><img src="https://img.youtube.com/vi/AVE7itGTmLs/0.jpg" alt="Roll Ball" width="500" height="300"></a>
-    
+    <img src="https://img.youtube.com/vi/AVE7itGTmLs/0.jpg" alt="Roll Ball" width="500" height="300">
+    <a href="https://github.com/Ferundal/Robot_Walks">GitHub Repository</a>
+    <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank">Gameplay Video</a>
    </details>
 
 + <details>
-    <summary><a href="https://github.com/Ferundal/Kid-Mansion-Robots"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
+    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
 
     Third person controlled quest. The child found themselves locked inside a robot-controlled mansion and is searching for a way out.
 
-    <a href="https://www.youtube.com/watch?v=GJfLMSTq2Fk" target="blank"><img src="https://img.youtube.com/vi/GJfLMSTq2Fk/0.jpg" alt="Roll Ball" width="500" height="300"></a>
+    <img src="https://img.youtube.com/vi/GJfLMSTq2Fk/0.jpg" alt="Kid. Mansion. Robots." width="500" height="300">
+    <a href="https://github.com/Ferundal/Kid-Mansion-Robots">GitHub Repository</a>
+    <a href="https://www.youtube.com/watch?v=GJfLMSTq2Fk" target="blank">Gameplay Video</a>
     
    </details>
     
