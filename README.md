@@ -30,6 +30,15 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
 
 + <details>
+    <summary><a href="https://github.com/JohnnyZaev/JamGDTV2023"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>
+
+    Ghost's Wokshop is a short interactive story about family, art and passing.
+
+    <a href="https://johnnyzaev.itch.io/ghostworkshop" target="blank"><img src="https://img.itch.zone/aW1nLzEyNDc5NTAzLnBuZw==/original/mJ8Nsh.png" alt="Ghost's Wokshop WebGL" width="500" height="300"></a>
+    
+   </details>
+
++ <details>
     <summary><a href="https://github.com/Ferundal/Robot_Walks"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
 
     Mobile shooter game prototype, work in progress
