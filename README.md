@@ -30,7 +30,7 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
 
 + <details>
-    <summary><a href="https://github.com/JohnnyZaev/JamGDTV2023"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>
+    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>
 
     Ghost's Wokshop is a short interactive story about family, art and passing.
 
